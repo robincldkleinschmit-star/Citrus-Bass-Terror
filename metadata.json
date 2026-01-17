@@ -1,0 +1,7 @@
+{
+  "name": "Citrus Terror Bass",
+  "description": "A component-modeled bass amplifier plugin emulating the hybrid tube/class-D architecture of the Orange Terror Bass.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
